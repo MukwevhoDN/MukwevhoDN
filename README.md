@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Divhani Mukwevho</h1>
-<h3 align="center">A passionate Data Scientist || RPA Developer from South Africa</h3>
+<h3 align="center">A passionate Software Developer || RPA Developer from South Africa</h3>
 
 ![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
